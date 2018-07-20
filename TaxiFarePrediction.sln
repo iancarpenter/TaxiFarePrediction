@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiFarePrediction", "TaxiFarePrediction\TaxiFarePrediction.csproj", "{D64EEE80-DBBD-435B-84D3-3F90497508C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D64EEE80-DBBD-435B-84D3-3F90497508C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64EEE80-DBBD-435B-84D3-3F90497508C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64EEE80-DBBD-435B-84D3-3F90497508C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64EEE80-DBBD-435B-84D3-3F90497508C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C4BC89B-6CD0-4215-A1EA-D0C77969D20A}
+	EndGlobalSection
+EndGlobal
